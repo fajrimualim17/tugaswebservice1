@@ -1,0 +1,11 @@
+XML Prolog adalah opsional. Jika ada, itu harus datang pertama dalam dokumen.
+
+Dokumen XML dapat berisi karakter internasional, seperti øæå Norwegia atau EEE Perancis.
+
+Untuk menghindari kesalahan, Anda harus menentukan encoding yang digunakan, atau menyimpan file XML sebagai UTF-8.
+
+UTF-8 adalah karakter encoding default untuk dokumen XML.
+
+Karakter encoding dapat dipelajari dalam karakter kami Set Tutorial.
+
+ketika anak-anak dinyatakan dalam urutan dipisahkan dengan koma, anak-anak harus muncul dalam urutan yang sama dalam dokumen. Dalam deklarasi penuh, anak-anak juga harus dinyatakan, dan anak-anak juga dapat memiliki anak. Deklarasi penuh dari "catatan" elemen:
